@@ -7,6 +7,8 @@
 
 https://github.com/QueenieCplusplus/android-proguard-snippets
 
+https://developer.android.com/studio/build/shrink-code?hl=zh-cn
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_apk/main/Proguard.png)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_apk/main/apk1.png)

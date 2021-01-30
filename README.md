@@ -11,6 +11,6 @@
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_apk/main/apk5.png)
 
-![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_apk/main/apk6.png)
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_apk/main/APK6.png)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_apk/main/apk7.png)
